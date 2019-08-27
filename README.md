@@ -2,7 +2,7 @@
 
 ## Regras de conduta para participantes do grupo do canal O Universo da Programação
 
-Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) no grupo de Telegram do canal O [Universo da Programação](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw).
+Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) no grupo de Telegram do podcast [O Universo da Programação](https://www.youtube.com/ouniversodaprogramacao).
 
 Não será tolerado nenhum tipo de repúdio, humilhação ou discriminação por:
 
@@ -57,9 +57,9 @@ A moderação se reserva o direito de verificar a autenticidade de usuários sus
 
 ## Como participar do grupo?
 
-Este grupo é limitado para pessoas que apoiam meus projetos no Catarse.
+Este grupo é limitado para pessoas que apoiam meus projetos no PicPay.
 
-Para apoiar basta entrar neste link e conhecer como tudo funciona: [catarse.me/william-oliveira](https://catarse.me/william-oliveira)
+Para apoiar basta entrar neste link e conhecer como tudo funciona: [catarse.me/william-oliveira](https://picpay.me/ouniversodaprogramacao)
 
 ## Sugestões e melhorias
 
