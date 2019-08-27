@@ -59,7 +59,7 @@ A moderação se reserva o direito de verificar a autenticidade de usuários sus
 
 Este grupo é limitado para pessoas que apoiam meus projetos no PicPay.
 
-Para apoiar basta entrar neste link e conhecer como tudo funciona: [catarse.me/william-oliveira](https://picpay.me/ouniversodaprogramacao)
+Para apoiar basta entrar neste link e conhecer como tudo funciona: [PicPay/ouniversodaprogramacao](https://picpay.me/ouniversodaprogramacao)
 
 ## Sugestões e melhorias
 
