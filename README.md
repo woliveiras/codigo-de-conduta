@@ -1,6 +1,6 @@
 # Código de Conduta
 
-## Regras de conduta para participantes do grupo do canal O Universo da Programação
+## Regras de conduta para participantes do grupo de mentoria e bate papo sobre programação
 
 Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) no grupo de Telegram do podcast [O Universo da Programação](https://www.youtube.com/ouniversodaprogramacao).
 
@@ -54,12 +54,6 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 A moderação se reserva o direito de verificar a autenticidade de usuários suspeito de cometer impersonation. A verificação será privada entre a moderação e o usuário.
 
 **Se você sofrer algum tipo de abuso, assédio, discriminação ou se sentir inseguro, fale com @woliveiras no Telegram.**
-
-## Como participar do grupo?
-
-Este grupo é limitado para pessoas que apoiam meus projetos no PicPay.
-
-Para apoiar basta entrar neste link e conhecer como tudo funciona: [PicPay/ouniversodaprogramacao](https://picpay.me/ouniversodaprogramacao)
 
 ## Sugestões e melhorias
 
