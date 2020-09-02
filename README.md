@@ -2,7 +2,9 @@
 
 ## Regras de conduta para participantes do grupo de mentoria e bate papo sobre programação
 
-Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) no grupo de Telegram do podcast [O Universo da Programação](https://www.youtube.com/ouniversodaprogramacao).
+Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) nas ações que realizo online.
+
+---
 
 Não será tolerado nenhum tipo de repúdio, humilhação ou discriminação por:
 
